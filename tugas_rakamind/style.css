@@ -1,0 +1,27 @@
+.row {
+  text-align: justify;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.title {
+  color: rgb(215, 245, 154);
+}
+.container {
+  background-color: rgb(116, 213, 242);
+  border: 1px solid black;
+  border-radius: 10;
+}
+
+.text-description {
+  font-size: smaller;
+  margin-top: 20px;
+}
+.text {
+  text-align: left;
+  font-size: 20px;
+}
+.image {
+  width: 50%;
+  align-self: center;
+}
